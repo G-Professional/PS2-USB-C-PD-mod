@@ -2,6 +2,8 @@
 
 This is a USB-C power mod for the PS2 SCPH 50001
 
+![sample](images/preview.png)
+
 To Do:
   - Desolder 4 pin connector from PSU
   - ~~Design USB C trigger board mount that fits into power connector and switch slot.~~
