@@ -1,4 +1,4 @@
-# PS2-USB-C-mod
+# PS2-USB-C PD-mod
 
 This is a USB-C mod for the PS2 SCPH 50001
 
