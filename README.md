@@ -1,6 +1,6 @@
-# PS2-USB-C PD-mod
+# PS2-USB-C-PD-mod
 
-This is a USB-C mod for the PS2 SCPH 50001
+This is a USB-C power mod for the PS2 SCPH 50001
 
 To Do:
   - Desolder 4 pin connector from board
