@@ -8,7 +8,7 @@ To Do:
   - ~~3d print trigger board mount~~
   - verify fit and adjust 3d design as needed
 
-I am envisioning a mount that sits the trigger board on the ledge of the stock mount, this should be able to fit. Then the wires can be soldered onto the trigger board and go straight to the 4 pin connector. I see many designs that just solder wires directly to the ps2 mobo with no connector. I would this design to solder to the connector, not the mobo.
+I am envisioning a mount that sits the trigger board on the ledge of the stock mount, this should be able to fit. Then the wires can be soldered onto the trigger board and go straight to the 4 pin connector. I see many designs that just solder wires directly to the ps2 mobo with no connector. I would like for this design to solder to the connector, not the mobo.
 
 After printing the mount, the fit seems good. I have doubts about the trigger board staying in place, further testing required.
 
