@@ -5,24 +5,15 @@ This is a USB-C power mod for the PS2 SCPH 50001
 ![sample](images/preview1.png)
 
 To Do:
-  - Desolder 4 pin connector from PSU
-  - ~~Design USB C trigger board mount that fits into power connector and switch slot.~~
-  - ~~3d print trigger board mount~~
-  - ~~verify fit and adjust 3d design as needed~~
-
-Final design finished. Fitment is good
-
-First thing to do is to short the correct pins on the board to enable 12V. These will be the 2 middle pins
-
-Next I will test to ensure 12V before connecting to system
-
-Next solder connector to the trigger board.
-
-Finally, test that the system turns on.
+ - redesign mount to secure board better. The usb-c part of the board tends to float up and down.
 
 Parts:
   - Trigger board -
     - https://www.amazon.com/dp/B08LDJBN8P?ref=ppx_yo2ov_dt_b_product_details&th=1
+
+Notes: 
+  - output of stock PSU was 12.03V, triggerboard was 12.10V
+  - connector of the psu to mobo is ambiguous, care must be taken to ensure orientation is correct.
 
 Links:
  - USB C PD info
