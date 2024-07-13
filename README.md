@@ -4,9 +4,6 @@ This is a USB-C power mod for the PS2 SCPH 50001
 
 ![sample](images/preview1.png)
 
-To Do:
- - create a set of instructions.
-
 Parts:
   - Trigger board -
     - https://www.amazon.com/dp/B08LDJBN8P?ref=ppx_yo2ov_dt_b_product_details&th=1
