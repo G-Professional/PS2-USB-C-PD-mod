@@ -6,6 +6,7 @@ This is a USB-C power mod for the PS2 SCPH 50001
 
 To Do:
  - redesign mount to secure board better. The usb-c part of the board tends to float up and down.
+ - create a set of instructions.
 
 Parts:
   - Trigger board -
