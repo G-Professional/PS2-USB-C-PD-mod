@@ -15,6 +15,7 @@ Parts:
 Notes: 
   - output of stock PSU was 12.03V, triggerboard was 12.10V
   - connector of the psu to mobo is ambiguous, care must be taken to ensure orientation is correct.
+  - personally, I dislike how incredibly tiny the trigger board is.
 
 Links:
  - USB C PD info
