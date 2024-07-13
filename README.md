@@ -19,6 +19,9 @@ Notes:
   - With the final design, the fitment is very tight. I'm not actually sure if the trigger module can be removed with out damaging it.
 
 Links:
+
+https://cults3d.com/en/3d-model/tool/ps2-usb-c-pd-mount
+
  - USB C PD info
    - perhaps in the future I would like to design my own trigger board
    - https://resources.altium.com/p/add-usb-type-c-power-delivery-your-designs
