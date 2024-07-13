@@ -5,7 +5,6 @@ This is a USB-C power mod for the PS2 SCPH 50001
 ![sample](images/preview1.png)
 
 To Do:
- - redesign mount to secure board better. The usb-c part of the board tends to float up and down.
  - create a set of instructions.
 
 Parts:
@@ -17,6 +16,7 @@ Notes:
   - connector of the psu to mobo is ambiguous, care must be taken to ensure orientation is correct.
   - personally, I dislike how incredibly tiny the trigger board is.
   - I wonder if there's a way to incorporate a power switch like stock.
+  - With the final design, the fitment is very tight. I'm not actually sure if the trigger module can be removed with out damaging it.
 
 Links:
  - USB C PD info
