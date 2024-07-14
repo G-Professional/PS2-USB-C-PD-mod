@@ -20,9 +20,9 @@ Next is to wire it to the connector.
 
 <img src="https://github.com/chucacabrawow/PS2-USB-C-PD-mod/blob/main/images/Pinout.jpg" width=40% height=40%>
 
-Next slot the module into the adapater, connect to the mobo. Double check orientation here, the connector is ambiguous.
+Next slot the module into the adapter, connect to the mobo. Double check orientation here, the connector is ambiguous.
 
-<img src="https://github.com/chucacabrawow/PS2-USB-C-PD-mod/blob/main/images/Pinout.jpg" width=40% height=40%>
+<img src="https://github.com/chucacabrawow/PS2-USB-C-PD-mod/blob/main/images/Connected.jpg" width=40% height=40%>
 
 The finished product.
 
