@@ -12,7 +12,7 @@ Instructions:
 
 *WARNING: This was designed for my specific needs. I did not check to see if this will work for every fat model PS2. I would not be surprised if other models/PSU use different voltages. Sending more voltage than a device needs will damage it!
 
-*2nd WARNING: I've noticed that under heavy load, my ps2 will turn off. This happens when plugging in usb items, using a harddrive along with a disc in the system, and any combination. Perhaps a trigger board with higher amps will fix this. The current one has an output of 12.1V @ 5A max. I'm reading from https://www.psdevwiki.com/ps2/Power that the OEM power supply outputs a max of 7.2A
+*2nd WARNING: I've noticed that under heavy load, my ps2 will turn off. This happens when plugging in usb items, using a harddrive along with a disc in the system, and any combination. This is the maximum amps that the specification allows, so there will not be trigger boards that can supply more than 5A. The current one has an output of 12.1V @ 5A max. I'm reading from https://www.psdevwiki.com/ps2/Power that the OEM power supply outputs a max of 7.2A.
 
 First step is to short these 2 small middle pins on the trigger module. This will enable 12V. Check with a multimeter to ensure 12V +-.1V. If it is too low, the PS2 will not stay powered on. Too high and it will probably damage the PS2.
 
@@ -34,6 +34,7 @@ The finished product.
 Notes: 
   - output of stock PSU was 12.03V, triggerboard was 12.10V
   - personally, I dislike how incredibly tiny the trigger board is.
+  - Max amps of the trigger board is 5A but OEM is 7.2A. What power saving techniques could I use? A different fan, swap hdd for ssd, remove cd drive?
   - I wonder if there's a way to incorporate a power switch like stock.
   - With the final design, the fitment is very tight. I'm not actually sure if the trigger module can be removed with out damaging it.
 
