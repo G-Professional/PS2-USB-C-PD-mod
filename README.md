@@ -12,7 +12,7 @@ Instructions:
 
 *WARNING: This was designed for my specific needs. I did not check to see if this will work for every fat model PS2. I would not be surprised if other models/PSU use different voltages. Sending more voltage than a device needs will damage it!
 
-*2nd WARNING: I've noticed that under heavy load, my ps2 will turn off. This happens when plugging in usb items, using a harddrive along with a disc in the system, and any combination. This is the maximum amps that the specification allows, so there will not be trigger boards that can supply more than 5A. The current one has an output of 12.1V @ 5A max. I'm reading from https://www.psdevwiki.com/ps2/Power that the OEM power supply outputs a max of 7.2A.
+*2nd WARNING: I've noticed that under heavy load, my ps2 will turn off. This happens when plugging in usb items, using a harddrive along with a disc in the system, and any combination. 5A is the maximum that the usb c pd specification allows, so there will not be trigger boards that can supply more than 5A. The current one has an output of 12.1V @ 5A max. I'm reading from https://www.psdevwiki.com/ps2/Power that the OEM power supply outputs a max of 7.2A.
 
 First step is to short these 2 small middle pins on the trigger module. This will enable 12V. Check with a multimeter to ensure 12V +-.1V. If it is too low, the PS2 will not stay powered on. Too high and it will probably damage the PS2.
 
