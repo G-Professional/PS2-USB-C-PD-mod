@@ -36,6 +36,7 @@ Notes:
   - personally, I dislike how incredibly tiny the trigger board is.
   - Max amps of the trigger board is 5A but OEM is 7.2A. What power saving techniques could I use? A different fan, swap hdd for ssd, remove cd drive?
     - I am reading that it may be possible to use a higher input signal, say 20V at 5A and feed that to a buck converter of 12V to keep the same power delivery but at a higher amp. Doing it this way could give us a limit of 8.2A. A buck converter usually has a pot so we would be able to fine tune the final voltage.
+    - https://www.amazon.com/XL4016E1-1-2-36V-Converter-Voltage-Regulator/dp/B07BP26LZS/ref=sr_1_4?crid=OI5J7AF6JPJS&dib=eyJ2IjoiMSJ9.2OwdbU4jz79rbWXobw-z3OQ8j_iFAVwmoUEb0PFvawLJn86d6-2CgUCxe8Ynmwx2C3zU_dVGhgVAhdDa3LAILsYubOxTHEcnN-NLnTN4jVwtQmuif1i7SpM4ikB_Sxz5TJH6le_90c_DLDT5ggaPcMKbfcJ5waS7S0_hCcJJ1-nXh8BwGP-su_pI5fJO8q2C2Kggu1dIwzcSUBRcOa3mtW7vn8AMGvXWNFtFFZkGB4M.dAM18D3Fj9Yc-AXH5G6aUtaxx73akRyjkeVg-wFc4Vg&dib_tag=se&keywords=buck+converter+100w&qid=1721954224&sprefix=buck+converter+100%2Caps%2C140&sr=8-4 Wow look at that this might work.
   - I wonder if there's a way to incorporate a power switch like stock.
   - With the final design, the fitment is very tight. I'm not actually sure if the trigger module can be removed with out damaging it.
 
