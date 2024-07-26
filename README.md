@@ -34,9 +34,6 @@ The finished product.
 Notes: 
   - output of stock PSU was 12.03V, triggerboard was 12.10V
   - personally, I dislike how incredibly tiny the trigger board is.
-  - Max amps of the trigger board is 5A but OEM is 7.2A. What power saving techniques could I use? A different fan, swap hdd for ssd, remove cd drive?
-    - I am reading that it may be possible to use a higher voltage input, say 20V at 5A and feed that to a buck converter of 12V to keep the same power delivery but at a higher amp. Doing it this way could give us a limit of 8.2A. A buck converter usually has a pot so we would be able to fine tune the final voltage.
-    - https://www.amazon.com/DROK-90483-Voltage-Regulator-Converter/dp/B00C4QVTNU/ref=sr_1_1?crid=LGA7J0MLKA9F&dib=eyJ2IjoiMSJ9.9Ll9yiNgNYEgPYzQL_IU_UppRyk-Kng_Od09NnKHHi1ORs0OWBzx79CG9FxU9SW4THzxcfhKFtnBXfPw8P53ZbWErNFzSHcJk4zBRmk6Q_uKgr1X1xa2rmb3Ji1tecIMj9Mi4RJ8ez0iyb5v7sIfBAhpinM0kJdVaL5lc6M2ru7KNcxrxqElR4yXMNeCn9vk3Dz83kFCrK9Qh5MdW14Og9lPa7W_IS3O_677U448x98.nkbDHEIx5kXlu3WB_ssgYdrMd22sWBu25SlBMOF-vHs&dib_tag=se&keywords=buck+converter+100w+8A&qid=1721971817&sprefix=buck+converter+100w+8a%2Caps%2C131&sr=8-1 Wow look at that this might work.
   - I wonder if there's a way to incorporate a power switch like stock.
   - With the final design, the fitment is very tight. I'm not actually sure if the trigger module can be removed with out damaging it.
 
