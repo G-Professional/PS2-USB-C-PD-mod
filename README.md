@@ -35,6 +35,7 @@ Notes:
   - output of stock PSU was 12.03V, triggerboard was 12.10V
   - personally, I dislike how incredibly tiny the trigger board is.
   - Max amps of the trigger board is 5A but OEM is 7.2A. What power saving techniques could I use? A different fan, swap hdd for ssd, remove cd drive?
+    - I am reading that it may be possible to use a higher input signal, say 20V at 5A and feed that to a buck converter of 12V to keep the same power delivery but at a higher amp. Doing it this way could give us a limit of 8.2A.
   - I wonder if there's a way to incorporate a power switch like stock.
   - With the final design, the fitment is very tight. I'm not actually sure if the trigger module can be removed with out damaging it.
 
